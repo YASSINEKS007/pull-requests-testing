@@ -1,1 +1,2 @@
-creating a new branch feature
+creating a new branch feature2
+adding text to the file
